@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# Virtual envs
+backend/.venv/
+venv/
+.env/
+*.env
+backend/.env
+frontend/.env
+Scraper/.env
+
+# Node
+frontend/node_modules/
+frontend/.parcel-cache/
+frontend/.vite/
+frontend/dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Selenium / drivers cache (if any local)
+.wdm/

@@ -1,0 +1,20 @@
+# Flask & HTTP
+Flask>=3.0.0
+Flask-CORS>=4.0.0
+requests>=2.32.3
+python-dotenv>=1.0.1
+python-dateutil>=2.9.0
+
+# DB & ORM
+SQLAlchemy>=2.0.0
+psycopg2-binary>=2.9.9
+greenlet>=3.0.0
+
+# Scraper (Selenium-only, with HTML parsing)
+selenium>=4.25.0
+webdriver-manager>=4.0.2
+beautifulsoup4>=4.12.3
+lxml>=5.2.1
+
+# (optional) production server
+gunicorn>=21.2.0
