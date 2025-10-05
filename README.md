@@ -52,7 +52,7 @@ APP/
 │  │  ├─ job_routes.py
 │  │  └─ scrape_routes.py
 │  ├─ requirement.txt            # backend + scraper Python dependencies (single file)
-│  └─ .env                       # backend env vars (see below)
+│  └─ .env                      
 ├─ frontend/
 │  ├─ public/
 │  │  └─ index.html
@@ -68,7 +68,7 @@ APP/
 │     │  └─ ToastProvider.jsx
 │     └─ Pages/
 │        ├─ AddEditJob.js
-│        └─ JobsList.js          # note: .js (not .jsx)
+│        └─ JobsList.js          
 └─ Scraper/
    └─ scrape.py
 ```
