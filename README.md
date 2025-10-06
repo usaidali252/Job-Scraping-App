@@ -17,12 +17,8 @@ A clean full-stack app for actuarial jobs.
   - [2) Frontend (React)](#2-frontend-react)
   - [3) Scraper (Selenium)](#3-scraper-selenium)
 - [API Endpoints](#api-endpoints)
-- [Manual Test Plan](#manual-test-plan)
-- [How This Meets the Rubric](#how-this-meets-the-rubric)
-- [Troubleshooting](#troubleshooting)
 - [Deployment Notes](#deployment-notes)
-- [Roadmap](#roadmap)
-- [License](#license)
+
 
 ---
 
